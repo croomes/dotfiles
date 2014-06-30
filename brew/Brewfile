@@ -12,19 +12,13 @@ install tmux
 
 # Version Control
 install git
-install mercurial
 
 # Editor
 install vim
 
-# For compiling older libraries
-tap homebrew/dupes
-install apple-gcc42
-
 # Utilities
 install archey
 install wget
-install youtube-dl
 install openssl
 
 # Cleanup any outdated formulas from the cellar
