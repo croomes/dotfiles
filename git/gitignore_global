@@ -1,3 +1,6 @@
+hieradata/envs/production
+hieradata/envs/development/classes/profile::freeipa::client.yaml
+
 # ----------------------------------------------------------------------------
 # Mac OS
 # https://github.com/github/gitignore/blob/master/Global/OSX.gitignore
@@ -6,6 +9,7 @@
 .AppleDouble
 .LSOverride
 Icon
+.snapshot
 
 # Thumbnails
 ._*
